@@ -1,1 +1,1 @@
-# mysite
+# A polling app
